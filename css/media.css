@@ -1,0 +1,89 @@
+@media (max-width: 952px) {
+header{
+  position: relative;
+  padding-bottom: 211px;
+}  
+.square {
+  position: absolute;
+    flex-direction: column; 
+    bottom: -1269px;
+    margin-left: 121px;
+}
+.card{
+  margin-bottom: 62px;
+}
+.header_bottom{
+  display: flex;
+  flex-direction: column;
+}
+.auth_button{
+  margin: 10px;
+  width: 261px;
+  height: 52px;
+margin-left: 126px;
+}
+.two_button{
+  margin-bottom: 70px;
+  width: 261px;
+  height: 52px;
+  margin-left: 126px;
+}.header_text{
+  text-align: center;
+  margin-top: 71px;
+}
+.header_desc{
+  text-align: center;
+}
+.header_word{
+  text-align: center;
+  margin-bottom: 35px;
+}
+.page{
+  padding-top: 1421px;
+}
+.page_text{
+  text-align: center;
+}
+.page_inners {
+  flex-direction: column;
+}
+.page_button{
+  margin-left: 126px;
+}
+.page_two-button{
+  margin-left: 126px;
+}
+.page_servise {
+  flex-direction: column;
+}
+.page_techsd {
+  margin-top: 83px;
+  margin-left: 83px;
+}
+.page_techs{
+  margin-top: 36px;
+  margin-left: 83px;
+}
+.page_costs{
+  margin-top: 36px;
+  margin-left: 83px;
+}
+.compnent_text{
+  text-align: center;
+}
+.component_desc{
+  text-align: center;
+}
+.componeny_bottom {
+  flex-direction: column;
+  margin-left: 34px;
+}
+.comp_img{
+  margin-left: 132px;
+}
+.hard{
+  background-image: url(/img/GettyImages-1073781684-scaled\ 1\ \(1\).png);
+}
+}
+
+    
