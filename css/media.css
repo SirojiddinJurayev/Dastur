@@ -101,6 +101,84 @@ margin-left: 126px;
 .part_bottom {
   flex-direction: column;
 }
+.footer_item {
+  flex-direction: column;
+}
+.footer_button{
+  flex-direction: column;
+}
+.button_link{
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+.footer_link{
+  margin-bottom: 30px;
+}
+.part_img{
+  width: 339px;
+}
+.header_desc{
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 43px;
+  text-align: center;
+
+}
+.header_text{
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 43px;
+  text-align: center;
+}
+.auth_button{
+  margin-left: 71px;
+}
+.two_button{
+  margin-left: 71px;
+}
+.square {
+  margin-left: 71px;
+}
+.page_button{
+  margin-left: 97px;
+}
+.page_two-button{
+  margin-left: 97px;
+}
+.page_techsd {
+  margin-left: 25px;
+}
+.page_techs{
+  margin-left: 25px;
+}
+.page_costs{
+  margin-left: 25px;
+}
+.compnent_text{
+  font-size: 30px;
+}
+.comp_img{
+  margin-left: 75px;
+}
+.search_page{
+  font-weight: 700;
+  text-align: center;
+}
+.search_list{
+  text-align: center;
+}
+.part_desc{
+  text-align: center;
+}
+.part_link{
+  margin-left: 71px;
+  border: none;
+  outline: none;
+}
+.grow_text{
+  font-weight: 700;
+  text-align: center;
+}
 }
 
     
