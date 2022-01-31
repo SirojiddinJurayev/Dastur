@@ -241,6 +241,7 @@ margin-top: 37px;
     color: #FFFFFF; 
 }
 .head_left{
+    display: none;
     padding: 41px 67px 48px 41px;
     background: #01A9F1;
     border-radius: 12px;
@@ -518,8 +519,7 @@ footer{
     padding-top: 27px;
 }
 .footer_item{
-    margin-left: 304px;
-    margin-bottom: 45px;
+    text-align: center;
 }
 .logo{
     font-weight: 800;
@@ -551,8 +551,8 @@ footer{
     text-decoration: none;
 }
 .footer_button{
-    
-    margin-left: 391px;
+    display: flex;
+    justify-content: center;
 }
 .next_nav{
     display: flex;

@@ -1,4 +1,7 @@
 @media (max-width: 952px) {
+  .container{
+    width: 100%;
+  }
 header{
   position: relative;
   padding-bottom: 211px;
@@ -83,6 +86,20 @@ margin-left: 126px;
 }
 .hard{
   background-image: url(/img/GettyImages-1073781684-scaled\ 1\ \(1\).png);
+}
+.hard{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.web_bottom {
+  flex-direction: column;
+}
+.icon-row{
+  display: none;
+}
+.part_bottom {
+  flex-direction: column;
 }
 }
 
